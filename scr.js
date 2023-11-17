@@ -3,7 +3,7 @@ const p = document.getElementById("back-text");
 
 button.addEventListener("click", async function() {
     try {
-      const xhr = await fetch("https://lizaaaaaaaaaa.github.io/razrab/back");
+      const xhr = await fetch("http://localhost:5110/back");
       const data = await xhr.text();
       p.textContent = data;
     } 
