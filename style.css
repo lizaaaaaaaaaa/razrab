@@ -26,14 +26,16 @@ header{
     display: flex;
     padding-bottom: 90px;
     align-items: center;
+    padding-left: 0px;
 }
 
 .about{
     display: flex;
-    width: 100%;
+    width: 80%;
     font-size: 40px; 
     font-family: "Raleway";
     padding-left: 50px;
+    padding-left: 0px;
 }
 
 .image2{
@@ -154,7 +156,6 @@ footer{
     .info{
         padding-left: 30px;
         padding-bottom: 20px;
-        width: 630px;
     }
     body{
         row-gap: 20px;
