@@ -35,7 +35,6 @@ header{
     font-size: 40px; 
     font-family: "Raleway";
     padding-left: 50px;
-    padding-left: 0px;
 }
 
 .image2{
@@ -154,7 +153,6 @@ footer{
     }
 
     .info{
-        padding-left: 30px;
         padding-bottom: 20px;
     }
     body{
